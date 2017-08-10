@@ -1,0 +1,27 @@
+<college_founders>
+   <founder id="1">
+      <name>Zephaniah Swift Moore</name>
+      <year>1821</year>
+      <college>Amherst</college>
+   </founder>
+   <founder id="2">
+      <name>Mary Lyon</name>
+      <year>1837</year>
+      <college>Mt. Holyoke</college>
+   </founder>
+   <founder id="3">
+      <name>William S. Clark</name>
+      <year>1867</year>
+      <college>University of Massachusetts Amherst</college>
+   </founder>
+   <founder id="4">
+      <name>Sophia Smith</name>
+      <year>1870</year>
+      <college>Smith</college>
+   </founder>
+   <founder id="5">
+      <name>Harold F. Johnson</name>
+      <year>1970</year>
+      <college>Hampshire</college>
+   </founder>
+</college_founders>
